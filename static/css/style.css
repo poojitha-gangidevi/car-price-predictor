@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2f3640;
+}
+
+.mt-50{
+    margin-top: 20px;
+}
+
+.container{
+    width: 72%;
+    background-color: #f5f5f5;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-group{
+    text-align: center;
+}
+
+.form-group label{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#prediction{
+    text-align: center;
+    margin-top: 25px;
+    font-weight: bold;
+}
